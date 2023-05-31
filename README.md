@@ -11,4 +11,4 @@ A new module, `spring-boot-docker-compose` introduced in Spring Boot 3.1.0 which
 
 ## Contact the Instructor
 
-For any questions, feedback, or suggestions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/challamadan/), or on [Email](tutor@eazybytes.com).
+For any questions, feedback, or suggestions. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/challamadan/), or on [Email - tutor@eazybytes.com]
